@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dozeno! <br/><a href="https://github.com/dozenoburns-cyber"href="https://www.linkedin.com/in/deeburns/" 
+<h1>Hi, I'm Dozeno! <br/><a href="https://github.com/dozenoburns-cyber"  href="https://www.linkedin.com/in/deeburns/" 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -21,13 +21,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
 [linkedin]: https://linkedin.com/in/deeburns
 [instagram]: https://www.instagram.com//
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dozenoburnscyber/dozenoburnscyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
