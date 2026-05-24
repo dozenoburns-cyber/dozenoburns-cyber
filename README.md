@@ -21,8 +21,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/deeburns
-[instagram]: https://www.instagram.com//
+- <b>[linkedin]: https://linkedin.com/in/deeburns</b>
+
+- <b>[instagram]: https://www.instagram.com//</b>
 
 
 <!--
