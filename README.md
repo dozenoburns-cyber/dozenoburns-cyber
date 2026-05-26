@@ -13,7 +13,7 @@
 <h2>📺 Certifications/Certificates</h2>
 
 - [AI Security & Governance](https://education.securiti.ai/verification/14AD64BAD-14AD64A1C-13F54E3D5/)
-- [ICS2 Certified Cyber Security Professional] (https://www.credly.com/badges/db1fabef-fae6-407e-be04-ba8e9adb7f6f/public_url)
+- [ICS2 Certified Cyber Security Professional](https://www.credly.com/badges/db1fabef-fae6-407e-be04-ba8e9adb7f6f/public_url)
 - [](h)
 - [)]()
 - []()
