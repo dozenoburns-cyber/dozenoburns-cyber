@@ -4,8 +4,9 @@
 
 - <b>(Lets Defend)</b>
   - [Title](URL)
-- <b>location</b>
-  - [Title](URL) <b><i>(Potentially NSFW)</b></i>
+- <b>Windows 2022 Server</b>
+  - [AD In Windows 2022 Server In Virtual Box](URL) <b> Designed and deployed a Windows Server 2022 virtual machine using VirtualBox to gain hands-on experience with enterprise IT infrastructure. Configured server settings, virtual networking, storage, and system resources while installing and managing Windows Server roles and features. Practiced foundational system administration tasks including server configuration, user account management, networking, and Active Directory Domain Services (AD DS) deployment in a virtual lab environment.<i>(Potentially NSFW)</b> <img width="480" height="420" alt="image" src="https://github.com/user-attachments/assets/b1ef09e7-5cff-4d6c-b61e-d11c9b2e18ea" />
+   </i>
 - <b>Location</b>
   - [Title](URL)
  
@@ -22,7 +23,7 @@
 
 - <b>[linkedin]: https://linkedin.com/in/deeburns</b>
 
-- <b>[instagram]: https://www.instagram.com//</b>
+-
 
 
 <!--
